@@ -1,3 +1,6 @@
 [submodule "SemiSupervisedLearning"]
 	path = SemiSupervisedLearning
 	url = git@github.com:ibarrien/SemiSupervisedLearning.git
+[submodule "SupervisedConstrastiveLosss"]
+	path = SupervisedConstrastiveLosss
+	url = git@github.com:ibarrien/SupervisedConstrastiveLosss.git
