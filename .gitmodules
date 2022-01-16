@@ -1,0 +1,3 @@
+[submodule "SemiSupervisedLearning"]
+	path = SemiSupervisedLearning
+	url = git@github.com:ibarrien/SemiSupervisedLearning.git
