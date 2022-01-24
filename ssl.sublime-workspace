@@ -1,0 +1,1307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"datasetname"
+			],
+			[
+				"num",
+				"number_of_runs"
+			],
+			[
+				"nu",
+				"number_of_runs"
+			],
+			[
+				"t",
+				"training_runs"
+			],
+			[
+				"be",
+				"bestHistories"
+			],
+			[
+				"do",
+				"doOverrides"
+			],
+			[
+				"CVnn",
+				"CVnnFactory"
+			],
+			[
+				"mo",
+				"modeltype"
+			],
+			[
+				"model",
+				"modeltype"
+			],
+			[
+				"test",
+				"testmode"
+			],
+			[
+				"ab",
+				"ablation_type"
+			],
+			[
+				"re",
+				"recipe"
+			],
+			[
+				"train",
+				"train_params"
+			],
+			[
+				"va",
+				"validate_batchsize"
+			],
+			[
+				"in",
+				"indep"
+			],
+			[
+				"best",
+				"bestFileName"
+			],
+			[
+				"n",
+				"notifier"
+			],
+			[
+				"loa",
+				"load_best"
+			],
+			[
+				"v",
+				"validateproc"
+			],
+			[
+				"resu",
+				"result2"
+			],
+			[
+				"tra",
+				"train_snapshots"
+			],
+			[
+				"s",
+				"snapshots"
+			],
+			[
+				"sa",
+				"save_snapshot"
+			],
+			[
+				"da",
+				"dataset_select"
+			],
+			[
+				"xfo",
+				"xformdataset_serial"
+			],
+			[
+				"shf",
+				"shfactory"
+			],
+			[
+				"dat",
+				"dataset"
+			],
+			[
+				"Data",
+				"DataPipeline"
+			],
+			[
+				"i",
+				"indxs"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"torch",
+				"torchutils"
+			],
+			[
+				"labe",
+				"label33"
+			],
+			[
+				"ind",
+				"indices"
+			],
+			[
+				"as",
+				"asarray"
+			],
+			[
+				"tor",
+				"torchlabels"
+			],
+			[
+				"l",
+				"labels1"
+			],
+			[
+				"use",
+				"useGather"
+			],
+			[
+				"lab",
+				"labels2"
+			],
+			[
+				"c",
+				"cacheddataset"
+			],
+			[
+				"bat",
+				"batchcache"
+			],
+			[
+				"batch",
+				"batchcache"
+			],
+			[
+				"D",
+				"Dataset"
+			],
+			[
+				"tim",
+				"timeutil"
+			],
+			[
+				"sh",
+				"sh_xform"
+			],
+			[
+				"out",
+				"outfolder"
+			],
+			[
+				"on",
+				"onceInit"
+			],
+			[
+				"work",
+				"workerargs"
+			],
+			[
+				"our",
+				"ourTestTransform"
+			],
+			[
+				"gets",
+				"getstats"
+			],
+			[
+				"cla",
+				"classmethod"
+			],
+			[
+				"str",
+				"support"
+			],
+			[
+				"cls",
+				"classmethod"
+			],
+			[
+				"set",
+				"setBatchsize"
+			],
+			[
+				"b",
+				"batchsize"
+			],
+			[
+				"val",
+				"validate_xform"
+			],
+			[
+				"g",
+				"grayscale"
+			],
+			[
+				"cifar",
+				"cifar10_dataset"
+			],
+			[
+				"fin",
+				"finalize"
+			],
+			[
+				"Bat",
+				"BatchCache"
+			],
+			[
+				"sna",
+				"snapshot"
+			],
+			[
+				"sn",
+				"snapshot"
+			],
+			[
+				"snap",
+				"snapshots"
+			],
+			[
+				"m",
+				"mybatch"
+			],
+			[
+				"batc",
+				"batchdata"
+			],
+			[
+				"ca",
+				"cachevalid"
+			],
+			[
+				"get",
+				"getBatchAsync"
+			],
+			[
+				"cu",
+				"cur_batch"
+			],
+			[
+				"en",
+				"enablecache"
+			],
+			[
+				"xform",
+				"xformbatch"
+			],
+			[
+				"add",
+				"add_argument"
+			],
+			[
+				"su",
+				"supported_models"
+			],
+			[
+				"d",
+				"datasetname"
+			],
+			[
+				"col",
+				"colorspace_dispatch"
+			],
+			[
+				"lum",
+				"lum_labstats2"
+			],
+			[
+				"co",
+				"colorspace"
+			],
+			[
+				"color",
+				"colorcode"
+			],
+			[
+				"colo",
+				"colorcode"
+			],
+			[
+				"k",
+				"kPickle"
+			],
+			[
+				"ci",
+				"cifar10_test"
+			],
+			[
+				"colors",
+				"colorspace"
+			],
+			[
+				"make",
+				"make_bigfiles"
+			],
+			[
+				"Big",
+				"BigChunk"
+			],
+			[
+				"big",
+				"bigtest"
+			],
+			[
+				"close",
+				"closefile"
+			],
+			[
+				"ou",
+				"outputfile"
+			],
+			[
+				"w",
+				"writeXform"
+			],
+			[
+				"bigfil",
+				"bigfileclass"
+			],
+			[
+				"bi",
+				"bigfileclass"
+			],
+			[
+				"read",
+				"read_images"
+			],
+			[
+				"fil",
+				"filesizes"
+			],
+			[
+				"writ",
+				"write_offsets"
+			],
+			[
+				"offsets",
+				"offsets2sizes"
+			],
+			[
+				"off",
+				"offset_add"
+			],
+			[
+				"reaed",
+				"read_offsets"
+			],
+			[
+				"fi",
+				"filesizes"
+			],
+			[
+				"wr",
+				"write_offsets"
+			],
+			[
+				"cif",
+				"cifar10_test"
+			],
+			[
+				"is",
+				"isGrayScale"
+			],
+			[
+				"stats",
+				"stats2"
+			],
+			[
+				"tt",
+				"training_set"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"r",
+				"rawimages"
+			],
+			[
+				"stat",
+				"stats2"
+			],
+			[
+				"te",
+				"test_set"
+			],
+			[
+				"I",
+				"isGrayScale"
+			],
+			[
+				"C",
+				"CustomCIFARDB"
+			],
+			[
+				"db",
+				"dbchunk"
+			],
+			[
+				"fish",
+				"fishName"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"Tr",
+				"TraceContext"
+			],
+			[
+				"fa",
+				"fashion"
+			],
+			[
+				"Train",
+				"TrainingParams"
+			],
+			[
+				"f",
+				"fashion"
+			],
+			[
+				"Normal",
+				"Normalize"
+			],
+			[
+				"reci",
+				"recipe0"
+			],
+			[
+				"opti",
+				"optim"
+			],
+			[
+				"op",
+				"optim"
+			],
+			[
+				"load",
+				"load_model"
+			],
+			[
+				"ker",
+				"kernel_size"
+			],
+			[
+				"sp",
+				"split_DCF_real"
+			],
+			[
+				"epoc",
+				"epochs"
+			],
+			[
+				"acc",
+				"accuracies"
+			],
+			[
+				"no",
+				"notify"
+			],
+			[
+				"V",
+				"ValidateModel"
+			],
+			[
+				"p",
+				"_params"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"ac",
+				"accuracy"
+			],
+			[
+				"pre",
+				"precision"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SemiSupervisedLearning/requirements.txt",
+			"settings":
+			{
+				"buffer_size": 86,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 53 files for \"kDefaultNLK_datafolder\" (whole word)\n\nD:\\Dev\\ssl\\SemiSupervisedLearning\\src\\download_nltk_data.py:\n   27  \n   28  if __name__ == '__main__':\n   29: \tdefaultNLTK_datafolder = nltkconfig.kDefaultNLK_datafolder\n   30  \t#print(f\"NLTK_data folder: {defaultNLTK_datafolder}\")\n   31  \n\nD:\\Dev\\ssl\\SemiSupervisedLearning\\src\\run_experiments_main_manny.py:\n   19  if __name__ == '__main__':\n   20      torchutils.initSeeds()\n   21:     defaultNLK_datafolder = nltkconfig.kDefaultNLK_datafolder   #TODO: control from command line using argparse\n   22      nlk_datafolder = nltkconfig.NLTK_datapath(defaultNLK_datafolder, override=True)\n   23  \n\nD:\\Dev\\ssl\\SemiSupervisedLearning\\src\\lib_utils\\nltkconfig.py:\n    4  Examples\n    5  #central location for nltk_data\n    6: kDefaultNLK_datafolder=\"d:/dev/ml/nce/ssl/datasets/nltk_data\"\n    7  \n    8  \n    .\n   25  \n   26  def set_default_datafolder(folder:str):\n   27: \tkDefaultNLK_datafolder = folder\n   28  \n   29  def check_nltk_data(datapkg:str) -> bool:\n\nD:\\Dev\\ssl\\SemiSupervisedLearning\\src\\lib_utils\\projconfig.py:\n   11  #central location for nltk_data\n   12  kDevRoot = \"ssl\"\n   13: kDefaultNLK_datafolder = \"d:/dev/ml/nce/ssl/datasets/nltk_data\"\n   14  \n   15  def direxist(dirname):\n\n<untitled 2261>:\n   55  -                        help='filename of test accuracy plot',\n   56  -                        default='acc_plot.png')\n   57: +    defaultNLK_datafolder = nltkconfig.kDefaultNLK_datafolder   #TODO: control from command line using argparse\n   58  +    nlk_datafolder = nltkconfig.NLTK_datapath(defaultNLK_datafolder, override=True)\n   59   \n\n6 matches across 5 files\n\n\nSearching 77 files for \"kDefaultNLK_datafolder\" (whole word)\n\nD:\\Dev\\ssl\\SemiSupervisedLearning\\src\\download_nltk_data.py:\n   27  \n   28  if __name__ == '__main__':\n   29: \tdefaultNLTK_datafolder = nltkconfig.kDefaultNLK_datafolder\n   30  \t#print(f\"NLTK_data folder: {defaultNLTK_datafolder}\")\n   31  \n\nD:\\Dev\\ssl\\SemiSupervisedLearning\\src\\run_experiments_main_manny.py:\n   19  if __name__ == '__main__':\n   20      torchutils.initSeeds()\n   21:     defaultNLK_datafolder = nltkconfig.kDefaultNLK_datafolder   #TODO: control from command line using argparse\n   22      nlk_datafolder = nltkconfig.NLTK_datapath(defaultNLK_datafolder, override=True)\n   23  \n\nD:\\Dev\\ssl\\SemiSupervisedLearning\\src\\lib_utils\\nltkconfig.py:\n    4  Examples\n    5  #central location for nltk_data\n    6: kDefaultNLK_datafolder=\"d:/dev/ml/nce/ssl/datasets/nltk_data\"\n    7  \n    8  \n    .\n   25  \n   26  def set_default_datafolder(folder:str):\n   27: \tkDefaultNLK_datafolder = folder\n   28  \n   29  def check_nltk_data(datapkg:str) -> bool:\n\nD:\\Dev\\ssl\\SemiSupervisedLearning\\src\\lib_utils\\projconfig.py:\n   11  #central location for nltk_data\n   12  kDevRoot = \"ssl\"\n   13: kDefaultNLK_datafolder = \"d:/dev/ml/nce/ssl/datasets/nltk_data\"\n   14  \n   15  def direxist(dirname):\n\n5 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 2932,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "SemiSupervisedLearning/src/lib_utils/nltkconfig.py",
+			"settings":
+			{
+				"buffer_size": 2484,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SemiSupervisedLearning/src/lib_utils/t.py",
+			"settings":
+			{
+				"buffer_size": 61,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SemiSupervisedLearning/src/run_experiments_main.py",
+			"settings":
+			{
+				"buffer_size": 6698,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"V",
+				"Virtualenv: Activate"
+			],
+			[
+				"v",
+				"Virtualenv: Activate"
+			],
+			[
+				"A",
+				"Virtualenv: Activate"
+			],
+			[
+				"a",
+				"Virtualenv: Add directory"
+			],
+			[
+				"Ac",
+				"Virtualenv: Activate"
+			],
+			[
+				"",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
+			[
+				"ac",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ven",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtualenv",
+				"Virtualenv: Add directory"
+			],
+			[
+				"venv",
+				"Virtualenv: New"
+			],
+			[
+				"Package Control: Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Virtualenv",
+				"Virtualenv: Activate"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"stop",
+			"x",
+			"x = 'hello' if n else 0",
+			"print('hello') if n ",
+			"n = None",
+			"a",
+			"a = 'b' if 1>0 else 'c'",
+			"import numpy",
+			"import torch",
+			"device = 'cuda:0' if torch.cuda.is_available() else 'cpu'",
+			"MLP()",
+			"net = MLP().to('cuda:0')",
+			"for i in range(0,10):print(i)",
+			"for i in range(0,10):",
+			"print('hi')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Dev/ssl",
+		"/D/Dev/ssl/SemiSupervisedLearning",
+		"/D/Dev/ssl/SemiSupervisedLearning/src",
+		"/D/Dev/ssl/SemiSupervisedLearning/src/lib_utils"
+	],
+	"file_history":
+	[
+		"/D/Dev/ML/stats/setup.txt",
+		"/D/Dev/ML/stats/conformal/ptocca/CP-MNIST-Demo/t_mnist.py",
+		"/D/Dev/ML/stats/conformal/ptocca/CP-MNIST-Demo/MNIST_CP.py",
+		"/D/Dev/ML/stats/requirements.txt",
+		"/D/Dev/ML/stats/notebook.txt",
+		"/D/Dev/ML/stats/repoURLs.txt",
+		"/D/Dev/ML/stats/conformal/conformal_classification/requirements-org.txt",
+		"/D/Dev/ML/stats/stats-learning.sublime-project",
+		"/D/Dev/ML/stats/conformal/conformal_classification/requirements.txt",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/trainutils.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/dataset/fashion.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/test_CIFAR10.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/test_fashion.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/mnist-tiny2-1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/training.py",
+		"/D/Dev/SigProc/onsen/complexNN/cplxmodule/cplxmodule/nn/init.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/bsize=128, tiny2-1.log",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/batch.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/utils/trace.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/random-seeds-2.log",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/utils/torchutils.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/modelling/SplitCVnn.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/modelling/CVnn.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/modelling/modelfactories.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/cplx/dispatcher.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/cplx/tt_layer.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/cplx/layers.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/tiny-tiny2-1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/fashion-tiny1024150-1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/test_loadmodels.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/loadmodel.py",
+		"/D/Dev/SigProc/onsen/DCF/RotDCF/test.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/loadmodel.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/t_cachebatch.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/modelling/modelfactory.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/test_DCFModels.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/cplx/CVnn_base.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/test_surreal.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/test_NLfashion.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/test_trainparams.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/dbaugmentations.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/../test_trainparams.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/../test_trainparams.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/t_loadall.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/t_chktrset.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/cifar-recipes-1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/cifar-lab-gpu-3.log",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/dataset/dataset_base.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/dataset/cifar10.py",
+		"/D/Dev/ML/TT_TR/tensorly/tensorly/backend/tensorflow_backend.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/fashion80E-tiny+base-1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/cifar-lab-gpu-1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/cifar-lab-gpu-2.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/t.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/fashion-50k-1.log",
+		"/D/Dev/SigProc/onsen/attention/exp4cgnl/experiment4CplxCGNL.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/test_batchxform.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/augmentation.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/10k80E, v=1, tiny+base.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/fashion10K80E-1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/surreal-lrschedule1.log",
+		"/D/Dev/Python/pyclass/class/Lectures/wip/zfill1.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/mpxform_sh.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/test_mppool.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/mp/tests/mpxform_sh.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/torchbatch.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/coshrem_xform.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/modelstats.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/batch.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/mp/mppool.py",
+		"/D/Dev/SigProc/onsen/network_dev/COVID/pipeline/tests/mp-batch.py",
+		"/D/Dev/SigProc/onsen/network_dev/COVID/pipeline/mppool.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/mp/mpxform.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/mp/tests/test_mppool.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/mpxform-sh.py",
+		"/D/Dev/SigProc/onsen/network_dev/fashion/pipeline/loadFashion.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/cifar50K10Ebest_loadmodels.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/tests/test_loadmodels.py",
+		"/D/Dev/SigProc/onsen/shearlet-CNN.sublime-project",
+		"/D/Dev/SigProc/onsen/complexNN/cplxmodule/cplxmodule/cplx.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/t2.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/cplx/cplxlayer.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/t1.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/BigFile.py",
+		"/D/Dev/ML/TT_TR/ifi-summer-school/venv4tensorly/Lib/site-packages/py/_path/svnwc.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/loadMNIST.py",
+		"/D/Dev/SigProc/onsen/network_dev/COVID/pipeline/tests/test_mppool.py",
+		"/D/Dev/SigProc/onsen/network_dev/COVID/pipeline/mpverify.py",
+		"/D/Dev/SigProc/onsen/network_dev/COVID/pipeline/tests/testutil.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/shxform.py",
+		"/D/Dev/SigProc/onsen/DCF/RotDCF/dataset.py",
+		"/D/Dev/SigProc/onsen/pyutils/pyutils/dirutils.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/shearletxform.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/dataset/datasetutils.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/bigfilebuildermp.py",
+		"/D/Dev/SigProc/onsen/network_dev/fashion/pipeline/mpxform.py",
+		"/D/Dev/SigProc/onsen/venv4torch19/lib/site-packages/shnetutil/mpxform.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/t_bigcolor.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/surreal-mck1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/10k5E, t=6k, base",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/base-best1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/colorCIFAR-mck1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/test_loadmodels-1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/../../t_cachebatch.py",
+		"/D/Dev/ML/batching/importance-sampling/importance_sampling/training.py",
+		"/D/Dev/ML/TT_TR/ifi-summer-school/venv4tensorly/Lib/site-packages/PIL/PngImagePlugin.py",
+		"/D/Dev/SigProc/onsen/network_dev/COVID/pipeline/tests/test-coshrem.py",
+		"/D/Dev/SigProc/onsen/pyutils/pyutils/enumutils.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/tests/t_cplxMeta.py",
+		"/D/Dev/SigProc/onsen/complexNN/cplxmodule/cplxmodule/nn/modules/base.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/ELU-1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/t_modelfactory.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/modelling/SplitCVnn0.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/2K3K5K20E, base1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/lr-runs1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/5K20E, base1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/test_rot.py",
+		"/D/Dev/SigProc/onsen/network_dev/tensors/tt-pytorch/t3nsor/layers.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/tests/t_tt-svd-init.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/archive/t_tt-svd-init-trained-approx.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/make_cifar.py",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/loadCIFAR.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/bsize-test1.log",
+		"/D/Dev/SigProc/onsen/shnetutil/shnetutil/pipeline/BigFileBuilder.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/cifar-Big1Chunk-cmp1.log",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/logs/important/cifar, base_tiny2.log",
+		"/D/Dev/ML/TT_TR/ifi-summer-school/venv4tensorly/Lib/site-packages/torchvision/datasets/cifar.py",
+		"/D/Dev/SigProc/onsen/network_dev/Re-Fashion/pipeline/tests/t_big1chunk.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"kDefaultNLK_datafolder",
+			"show_pred_sets",
+			"compute_scores",
+			"interact",
+			"=",
+			"loadAugCache",
+			"rand_indices",
+			"trainloop",
+			"trainRuns",
+			"trainloop",
+			"TTLayer",
+			"TTLayer(in",
+			"500000",
+			"dumpModelSize",
+			"ModelFactory",
+			"trainloop",
+			"modelfactories",
+			"dbaugmentations",
+			"ModelFactory",
+			"'stages'",
+			"Transform",
+			"cplx_trabelsi_standard_",
+			"getCustomRecipe",
+			"ValidateModel_base",
+			"trainloop",
+			"test_fashion",
+			"fashionrecipe",
+			"loadmodel",
+			"surreal_init",
+			"getRecipe",
+			"gatherByIndices",
+			"global",
+			"gatherByIndices",
+			"testFastGather",
+			"'gpu'",
+			".cpu()",
+			"kMP",
+			"kSerial",
+			"xformdataset_serial",
+			"dataset_base",
+			"torchutils",
+			"BigFile",
+			"prepFashion",
+			"kBigFile",
+			"['trainX']",
+			"['testX']",
+			"testX",
+			"['test']",
+			"['train']",
+			"'train'",
+			"validateX",
+			"'validate'",
+			"'test'",
+			"train_xform",
+			"'train_xform'",
+			".cuda",
+			"Bagging",
+			"isequal",
+			"loadAugCache",
+			".rewind",
+			".rewine",
+			"train_xform",
+			"type(train_xform)",
+			"train transforms",
+			"load_cifar",
+			"/load_cifar",
+			"batch",
+			"dbaugmentations",
+			"batch",
+			"dbaugmentations",
+			"kBigFile",
+			"4",
+			"mppool",
+			"issubclass",
+			"prepFashion",
+			"dirutils",
+			"dirutil",
+			"kShearlet_spec",
+			"mpxform",
+			"torchutil",
+			"dataset_base",
+			"mpxform",
+			"infer",
+			"breakpoint()",
+			"loadAugCache",
+			"__del__",
+			"ourArgs",
+			"loadAugCache",
+			"fashion_set",
+			"load_fashion",
+			"testutil",
+			"batch.",
+			"time_spent",
+			"CaptureAugmentation",
+			"test_fashion",
+			"torch.save",
+			"ourAugmentations",
+			"BatchCache",
+			"model_fit",
+			"fashion_set",
+			"time_spent",
+			"partial",
+			"batchcache",
+			"model_fit",
+			"kLogging",
+			"rand_indices",
+			"crc",
+			"CheckSum",
+			"model_fit",
+			"time_spent",
+			"testutil",
+			"numbatches",
+			"iscolor",
+			"trichannel_colorspaces",
+			"Conv2dDesc",
+			"kCoShCVNN",
+			"loaded in buffer",
+			"colorspace_dispatch",
+			"choices",
+			"alpha=",
+			"activation_dispatch",
+			"nn.ELU",
+			"CplxSplitLayerELU",
+			"elu",
+			"Activations",
+			"elu",
+			"kELU",
+			"get_activation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"==",
+			"Xform",
+			"utils",
+			"",
+			"Searching",
+			" CVnn_Base\n",
+			" \n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SemiSupervisedLearning/requirements.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2932,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										209,
+										231
+									],
+									[
+										486,
+										508
+									],
+									[
+										784,
+										806
+									],
+									[
+										931,
+										953
+									],
+									[
+										1154,
+										1176
+									],
+									[
+										1448,
+										1470
+									],
+									[
+										1859,
+										1881
+									],
+									[
+										2136,
+										2158
+									],
+									[
+										2434,
+										2456
+									],
+									[
+										2581,
+										2603
+									],
+									[
+										2804,
+										2826
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								2491,
+								2491
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 658.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "SemiSupervisedLearning/src/lib_utils/nltkconfig.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "SemiSupervisedLearning/src/lib_utils/t.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "SemiSupervisedLearning/src/run_experiments_main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2279,
+								2279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 412.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "ssl.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Dev\\Python\\pyclass\\class\\pyclass.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 556.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				".vs",
+				".ipynb_checkpoints",
+				"__pycache__",
+				"venv4ssl",
+				"build/",
+				"*.egg-info",
+				"datasets"
+			],
+			"path": "."
+		}
+	],
+	"virtualenv": "D:\\Dev\\ssl\\venv4ssl"
+}
